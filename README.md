@@ -23,11 +23,11 @@ Este projeto é uma aplicação web desenvolvida em Python que permite consultar
 - [Pandas](https://pandas.pydata.org/) — Manipulação e análise de dados
 - [Streamlit](https://streamlit.io/) — Criação da interface web
 
-🔗 Fonte dos Dados
+🔗 Fonte dos Dados:
 API oficial do IBGE — Documentação
 
-📄 Licença
+📄 Licença:
 Este projeto está licenciado sob a Licença MIT, permitindo uso, cópia, modificação e distribuição livremente.
 
-✍️ Autor
+✍️ Autor:
 Desenvolvido por Gabriel Sena.
