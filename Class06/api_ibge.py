@@ -1,5 +1,5 @@
 import requests
-import pprint
+from pprint import pprint
 import pandas as pd
 import streamlit as st
 
