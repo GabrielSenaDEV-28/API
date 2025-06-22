@@ -5,10 +5,15 @@ Este projeto é uma aplicação web desenvolvida em Python que permite consultar
 ## 🚀 Funcionalidades
 
 -Consulta da frequência de nomes no Brasil por década via API oficial do IBGE.
+
 -Consumo de API com tratamento de erros e respostas.
+
 -Processamento e manipulação de dados usando Pandas.
+
 -Exibição de dados em tabelas interativas.
+
 -Visualização gráfica da evolução dos nomes ao longo do tempo.
+
 -Interface web responsiva e intuitiva com Streamlit.
 
 ## 🛠️ Tecnologias Utilizadas
